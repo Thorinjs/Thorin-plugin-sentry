@@ -3,7 +3,8 @@
   "author": "UNLOQ Systems",
   "version": "1.0.0",
   "dependencies": {
-    "@sentry/node": "^5.15.4"
+    "@sentry/integrations": "5.15.4",
+    "@sentry/node": "5.15.4"
   },
   "description": "Thorin.js sentry.io integration",
   "main": "index.js",
