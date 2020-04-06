@@ -1,0 +1,19 @@
+{
+  "name": "thorin-plugin-sentry",
+  "author": "UNLOQ Systems",
+  "version": "1.0.0",
+  "dependencies": {
+    "@sentry/node": "^5.15.4"
+  },
+  "description": "Thorin.js sentry.io integration",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thorinjs/Thorin-plugin-sentry"
+  },
+  "homepage": "http://thorinjs.com",
+  "bugs": {
+    "url": "https://github.com/Thorinjs/Thorin-plugin-sentry/issues"
+  }
+}
