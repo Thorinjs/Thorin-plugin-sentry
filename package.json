@@ -1,7 +1,7 @@
 {
   "name": "thorin-plugin-sentry",
   "author": "UNLOQ Systems",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@sentry/integrations": "5.15.4",
     "@sentry/node": "5.15.4"
